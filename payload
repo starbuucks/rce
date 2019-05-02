@@ -1,0 +1,3 @@
+#!/bin/sh
+id>/tmp/result.txt
+gnome-calculator || open /Applications/Calculator.app
